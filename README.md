@@ -1,2 +1,2 @@
 # readmeSetup
-Readme setip
+Readme setup
